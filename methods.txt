@@ -1,3 +1,4 @@
-- peel and mash avocados
+- peel avocados
+- mash avocados
 - chop onion, tomato, and cilantro
 - add salt and pepper
